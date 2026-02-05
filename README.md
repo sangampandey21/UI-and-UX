@@ -12,3 +12,7 @@ The Relationship: UI & UX Work Together
 UI is a subset of UX: A beautiful UI (presentation) can't save poor UX (functionality).
 Shared Goal: To create products that are easy, efficient, and enjoyable for users.
 Collaboration: UX research informs UI decisions, and UI design implements the UX goals, making them inseparable for success.
+
+Why It Matters ?
+Success: Good UI/UX directly impacts user engagement, satisfaction, and retention for apps and websites.
+Problem Solving: It's about understanding user needs to create meaningful and relevant solutions.
