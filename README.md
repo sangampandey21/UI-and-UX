@@ -8,7 +8,6 @@ Define: Create user personas and journey maps to outline the strategy.
 Ideate & Wireframe: Map out the skeleton of the product using low-fidelity sketches.
 UI Design: Transform wireframes into high-fidelity mockups with visual styling and branding.
 Prototype & Test: Build interactive models to validate the design with real users.
-
 The Relationship: UI & UX Work Together.
 
 UI is a subset of UX: A beautiful UI (presentation) can't save poor UX (functionality).
