@@ -4,13 +4,21 @@ This repo is all abut projects in UI/UX where UI (User Interface) is the look, f
 The Design Process in UI UX  :-
 
 Empathize & Research: Understand user needs and pain points through interviews and surveys.
+
 Define: Create user personas and journey maps to outline the strategy.
+
 Ideate & Wireframe: Map out the skeleton of the product using low-fidelity sketches.
+
 UI Design: Transform wireframes into high-fidelity mockups with visual styling and branding.
+
 Prototype & Test: Build interactive models to validate the design with real users.
+
 The Relationship: UI & UX Work Together.
+
 UI is a subset of UX: A beautiful UI (presentation) can't save poor UX (functionality).
+
 Shared Goal: To create products that are easy, efficient, and enjoyable for users.
+
 Collaboration: UX research informs UI decisions, and UI design implements the UX goals, making them inseparable for success.
 
 Why It Matters ?
