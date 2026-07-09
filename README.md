@@ -7,7 +7,7 @@ Empathize & Research: Understand user needs and pain points through interviews a
 
 Define: Create user personas and journey maps to outline the strategy.
 
-Ideate & Wireframe: Map out the skeleton of the product using low-fidelity sketches.
+Ideate & Wireframe: Map out the skeleton of the product using low-fidelity sketch.
 
 UI Design: Transform wireframes into high-fidelity mockups with visual styling and branding.
 
